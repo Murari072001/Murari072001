@@ -61,9 +61,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Add your link]
-- 📧 Email: [Add your email]
-
+- 💼 LinkedIn: https://www.linkedin.com/in/murari-tiruveedhula-4844961aa
+- 📧 Email: murari.t2001@gmail.com
 ---
 
 ⭐ *“I don’t just build apps — I build systems.”*
